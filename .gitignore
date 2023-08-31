@@ -1,0 +1,39 @@
+# Compiled Python files
+__pycache__/
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration files
+*.idea/
+.vscode/
+
+# User-specific files
+venv/
+env/
+*.pyc
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled UI files (if using tools like pyuic)
+*.ui
+
+# Compiled binary files (if any)
+*.exe
+*.dll
+
+# Compiled dynamic libraries (if any)
+*.so
+
+# Compiled object files (if any)
+*.o
+*.obj
