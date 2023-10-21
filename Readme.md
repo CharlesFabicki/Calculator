@@ -2,6 +2,10 @@
 
 This is a Python-based Enhanced Calculator App built using Tkinter. It offers basic calculator features along with square root, percentage, exponentiation, and constants like π and 𝑒. The app provides a user-friendly interface with buttons for input and operations.
 
+# Screenshot
+![Calculator](https://github.com/CharlesFabicki/Calculator/assets/103677730/8f4825ad-e365-4a2b-801b-37117518bf5f)
+
+
 ## Features
 
 - Basic arithmetic operations: +, -, *, /
@@ -19,9 +23,9 @@ Make sure you have Python and Tkinter installed.
 1. Clone/download the repository.
 2. Navigate to the downloaded directory.
 3. Run the app using the following command:
-
-python main.py
-
+```
+python Calculator.py
+```
 ## Instructions
 
 - Digit Buttons (0-9): Input numbers.
